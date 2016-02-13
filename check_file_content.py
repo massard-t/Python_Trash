@@ -8,9 +8,8 @@ def check_file(filename):
         return (False)
     form = format_ok(filename)
     if form is False:
-        print("Failure")
-    else:
-        print(form)
+        print ("Failure")
+    return (form)
 
 
 def format_ok(fname):

@@ -1,3 +1,10 @@
+# starting to convert txt to matrix
+matrix based on values from 0 to 3
+(' ' = 0)
+('+' = 1)
+('@' = 2)
+('#' = 3)
+
 # maps/
 added maps directory for testing purpose
 
