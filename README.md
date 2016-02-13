@@ -1,4 +1,7 @@
 # check_file_content.py
+modified the line-length checking. works like a charm now
+
+# check_file_content.py
 beginning of file checking (size, no corruption,
 no unknown characters, etc...)
 
