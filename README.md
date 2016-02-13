@@ -1,3 +1,6 @@
+# maps/
+added maps directory for testing purpose
+
 # check_file_content.py
 modified the line-length checking. works like a charm now
 

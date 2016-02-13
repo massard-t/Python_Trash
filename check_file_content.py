@@ -30,4 +30,4 @@ def format_ok(fname):
     return (ret)
 
 if __name__ == '__main__':
-    check_file("test1.txt")
+    check_file("maps/test3.txt")
