@@ -1,3 +1,7 @@
+# check_file_content.py
+beginning of file checking (size, no corruption,
+no unknown characters, etc...)
+
 # args.py
 basic usage of the argparse module.
 
