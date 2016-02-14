@@ -1,0 +1,2 @@
+usage: args.py [-h] [-v | -q] hp stimpak_val
+args.py: error: the following arguments are required: hp, stimpak_val
