@@ -1,3 +1,5 @@
+## Python Toolbox for personnal projects
+
 # starting to convert txt to matrix
 matrix based on values from 0 to 3
 (' ' = 0)
